@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Andrew Weng"
   pronouns         : 
-  bio              : "EV Center Postdoctoral Fellow at the University of Michigan"
+  bio              : "Electric Vehicle Center Postdoctoral Fellow at the University of Michigan"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
   uri              : # URL
@@ -215,9 +215,6 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
@@ -261,15 +258,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
