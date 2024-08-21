@@ -54,7 +54,7 @@ Battery formation modeling and diagnostics: toward closed-loop battery manufactu
 ### Spatio-temporal pattern formation in the Gray-Scott Model
 
 > *Congress of the Canadian Association of Physicists, Montreal, Canada, **2013*** (poster presentation) \
-> Authors: *A. Weng**, M. Karttunen \
+> Authors: **A. Weng**, M. Karttunen \
 > **First Prize, Best Student Poster, Division of Theoretical Physics**
 
 ## Media
