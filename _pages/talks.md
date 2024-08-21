@@ -9,7 +9,7 @@ author_profile: true
 
 ## Invited Talks
 
-### Battery formation modeling and diagnostics: toward closed-loop battery manufacturing process control
+Battery formation modeling and diagnostics: toward closed-loop battery manufacturing process control
 > *Battery Modeling Webinar Series, **Feb 2024***
 
 ### Battery passports: renewing the case for advanced BMS diagnostics
@@ -28,33 +28,33 @@ author_profile: true
 
 ### Formation Model for Physics-Based End-of-Line Diagnostics: Towards Closed-Loop Battery Manufacturing Process Control
 > *Cell Symposia: Technology barriers to electric vehicle implementation, Ann Arbor, MI, May 20 - May 22 **2024*** (oral presentation) \
-> **A. Weng**, G. Less, J.B. Siegel, A. Stefanopoulou \
+> Authors: **A. Weng**, G. Less, J.B. Siegel, A. Stefanopoulou \
 > **Top Poster Award**
 
 ### Towards rational design of battery formation protocols: from electrochemical modeling to factory deployment
 > *Electrochemical Society Spring Meeting, San Francisco, CA, May 26 - May 30, **2024*** (oral presentation) \
-> **A. Weng**, K. Kovalchuk, J.B. Siegel, A. Stefanopoulou
+> Authors: **A. Weng**, K. Kovalchuk, J.B. Siegel, A. Stefanopoulou
     
 ### Phenomenological model of solid electrolyte interphase formation and growth leveraging real-time expansion measurements
 > *Electrochemical Society Spring Meeting, Boston, MA, May 28 - June 2, **2023*** (oral presentation) \
-> **A. Weng**, E. Olide, V. Tran, I. Kovalchuk, J.B. Siegel, A. Stefanopoulou
+> Authors: **A. Weng**, E. Olide, V. Tran, I. Kovalchuk, J.B. Siegel, A. Stefanopoulou
 
 ### Voltage-based battery manufacturing diagnostics: opportunities and challenges
 > *Gordon Research Conference, Ventura, CA, **2022*** (poster presentation) \
-> **A. Weng**. P. Mohtat, P.M. Attia, V. Sulzer, S. Lee, G. Less, A. Stefanopoulou
+> Authors: **A. Weng**. P. Mohtat, P.M. Attia, V. Sulzer, S. Lee, G. Less, A. Stefanopoulou
 
 ### Using Resistance as a Surrogate for Lithium Consumed During Formation for Cell Life Prediction
 > *MRS Spring Meeting, Hawaii, HI **2022*** (oral presentation) \
-> **A. Weng**, P. Mohtat, P.M. Attia, V. Sulzer, S. Lee, G. Less, A. Stefanopoulou
+> Authors: **A. Weng**, P. Mohtat, P.M. Attia, V. Sulzer, S. Lee, G. Less, A. Stefanopoulou
 
 ### Degradation diagnostics in graphite-NMC cells under fast SEI formation
 > *Electrochemical Society Spring Meeting, May 30 -- June 3, **2021*** (oral presentation) \
-> **A. Weng**, P. Mohtat, S. Lee, G. Less, A. Stefanopoulou
+> Authors: **A. Weng**, P. Mohtat, S. Lee, G. Less, A. Stefanopoulou
 
 ### Spatio-temporal pattern formation in the Gray-Scott Model
 
 > *Congress of the Canadian Association of Physicists, Montreal, Canada, **2013*** (poster presentation) \
-> **A. Weng**, M. Karttunen \
+> Authors: *A. Weng**, M. Karttunen \
 > **First Prize, Best Student Poster, Division of Theoretical Physics**
 
 ## Media

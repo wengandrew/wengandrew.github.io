@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I am actively developing coursework at the masters and professional level on the topic of battery engineering and battery manufacturing process fundamentals. I have also served as Graduate Student Instructor (GSI), guest lecturer, and workshop developer at multiple venues over the past four years.
+I am actively developing university-level coursework on the topic of battery engineering and battery manufacturing process fundamentals. I have also served as a Graduate Student Instructor (GSI), guest lecturer, and workshop developer at multiple venues over the past four years.
 
 ### Battery Manufacturing Online Short Course (**Fall 2024**)
 
@@ -49,4 +49,13 @@ Undergraduate Research Opportunities Program (UROP) students:
 3. Roger Ho (ME/CS), 2021
    - "Measuring battery cell properties at the extreme end of life"
 
-#### @ Tesla
+### @ Tesla
+
+1. Yash Matharu 
+2. Rachel Zhang (now at Tesla, Process Engineer)
+3. Derek Deng (now at Berkeley, PhD Candidate)
+4. Cameron Dean (now at Waterloo, PhD Candidate, Nazar Group)
+5. Rachel Tao (now at Microsoft, Software Engineer)
+6. Jack McGrory (now at General Motors, Sr. Software Engineer)
+7. Daniel McHaffie (now at Caltech, PhD Candidate, See Group)
+8. Storm Gourley (now at McMaster, PhD Candidate)
