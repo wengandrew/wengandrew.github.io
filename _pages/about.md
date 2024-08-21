@@ -20,7 +20,7 @@ I also currently hold joint appointments with the following organizations:
 
 ## Working Together
 
-I thrive on collaborating across disciplines and institutions. My ongoing collaborations include:
+I am firmly committed to collaborating across disciplines and institutions. My ongoing collaborations include:
 
 - Gabriel Ehrlich, *University of Michigan, Department of Economics*: effect of the electric vehicle transition on vehicle assembly labor intensity
 - Nicolas Rolston, *Arizona State University, School of Electrical, Computer, and Energy Engineering*: sodium-ion cell performance at low temperatures
