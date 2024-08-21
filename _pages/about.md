@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Postdoctoral Fellow** in the [Battery Control Group](https://batterycontrolgroup.engin.umich.edu/) at the University of Michigan, Ann Arbor. Before that, I was a [**Staff Cell Engineer at Tesla**](https://www.linkedin.com/in/wengandrew/), where I focused on battery technology evaluation and battery systems modeling (2013 to 2024). My educational background includes mechanical engineering, materials science, and computer science.
+I am a **Postdoctoral Fellow** in the [**Battery Control Group at the University of Michigan**](https://batterycontrolgroup.engin.umich.edu/). Before that, I was a [**Staff Cell Engineer at Tesla**](https://www.linkedin.com/in/wengandrew/), where I focused on battery technology evaluation and battery systems modeling (2013 to 2024). My educational training blends mechanical engineering, materials science, and computer science.
 
-My research focuses on **energy systems modeling** with an emphasis on *battery manufacturing process optimization*, *battery lifetime prediction*, and *battery workforce development*. 
+My research focuses on **energy systems modeling** with an emphasis on battery manufacturing process optimization, battery lifetime prediction, and battery workforce development. 
 
 My mission is to **build a knowledge base enabling new battery manufacturing technologies to be deployed rapidly and sustainably**.
 
@@ -18,7 +18,7 @@ I also currently hold joint appointments with the following organizations:
 - [_University of South Carolina, Chemical Engineering_](https://sc.edu/study/colleges_schools/engineering_and_computing/news_events/news/2022/dougal_10_million_navy_research.php): **Project Engineer** for battery digital twins in naval power and energy systems 
 - [_Volta Foundation_](https://volta.foundation/battery-report): **Content Lead** for the Annual Battery Report: Talent and Workforce Development
 
-# Working Together
+## Working Together
 
 I thrive on collaborating across disciplines and institutions. My ongoing collaborations include:
 
@@ -30,7 +30,7 @@ I thrive on collaborating across disciplines and institutions. My ongoing collab
 
 I would love to hear from you! Please write me an email if you'd like to start a conversation about research ideas. My email is "asweng [at] umich [dot] edu".
 
-# Brief Bio
+## Brief Bio
 
 Here is my educational background, in brief:
 - Ph.D. Mechanical Engineering, *University of Michigan at Ann Arbor*, 2024
