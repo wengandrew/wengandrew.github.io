@@ -5,6 +5,14 @@ author_profile: true
 redirect_from: 
 ---
 
-# Research Interests
+I apply data-driven modeling methods to help battery manufacturing technology scale-up quickly and sustainably. 
 
-_Under Construction_
+
+
+# Battery Manufacturing Process Optimization
+
+
+# Battery Lifetime Prediction
+
+
+# Battery Workforce Development
