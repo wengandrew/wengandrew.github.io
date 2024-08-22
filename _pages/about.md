@@ -30,7 +30,7 @@ My email is "weng [dot] andrew [at] gmail [dot] com."
 
 ## Brief Bio
 
-Here is a brief summary of my educational background:
+### Education
 
 - Ph.D. Mechanical Engineering, *University of Michigan at Ann Arbor*, 2024
   - *Thesis*: "Lithium-ion battery formation modeling and diagnostics"
@@ -38,3 +38,36 @@ Here is a brief summary of my educational background:
   - *Specializations*: Computing systems and artificial intelligence
 - B.A.Sc. Nanotechnology Engineering, *University of Waterloo, Canada*, 2013
   - *Options*: Physics and management sciences 
+
+### Professional and Research Experiences
+
+| Date | Position | Employer (Location)
+| - | - | - | 
+| 2024 - Now | Postdoctoral Research Fellow | Univ. of Michigan (Ann Arbor, MI) |
+| 2024 - Now | Project Engineer | Univ. of South Carolina (remote) |
+| 2021 - 2024 | Staff Cell Engineer | Tesla (remote)
+| 2017 - 2021 | Sr. Cell Research Engineer | Tesla (Palo Alto, CA)
+| 2014 - 2017 | Cell Test Engineer | Tesla (Palo Alto, CA)
+| 2013 - 2014 | Cell Technology Intern | Tesla (Palo Alto, CA)
+| 2013 | Research Engineer (organic photodetectors) | US Nano LLC (South Bend, IN)
+| 2012 | Research Assistant (tissue engineering) | Harvard-MIT HST (Boston, MA)
+| 2012 | Research Assistant (soft matter simulation) | UWaterloo Chemistry (Waterloo, Canada)
+| 2012 | Technical Consultant (patents) | Blake, Cassels & Graydon LLP (Toronto, Canada)
+| 2011 | Research Assistant (MEMS) | UWaterloo Mech. Eng. (Waterloo, Canada) 
+| 2010 | Mechanical Quality Engineer | Applied Kinetics Inc. (Ancaster, Canada)
+| 2009 | Research Assistant (fuel cells) | UWaterloo Chem. Eng. (Waterloo, Canada)
+
+### Awards
+
+| Year | Award | Location |
+| -- | -- | -- |
+| 2024 | Top Poster, Cell Symposia: Technology barriers to EV implementation | Ann Arbor, MI |
+| 2023 | S.M. and Benjamin Wu Fellowship in Manufacturing | Ann Arbor, MI |
+| 2020 | Benton, Dwight F. Fellowship | Ann Arbor, MI |
+| 2020 | Forrest Student Fellowship | Ann Arbor, MI |
+| 2013 | Best Student Poster, Division of Theoret. Physics, CAP Congress | Montreal, Canada |
+| 2013 | NSERC Alexander Graham Bell Graduate Scholarship | Waterloo, Canada |
+| 2013 | President's Graduate Scholarship | Waterloo, Canada |
+| 2011 | NSERC Undergraduate Research Award | Waterloo, Canada |
+| 2010 | NSERC Undergraduate Research Award | Waterloo, Canada |
+
