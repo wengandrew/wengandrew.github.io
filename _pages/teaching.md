@@ -11,7 +11,7 @@ I am actively developing university-level coursework on the topics of battery en
 
 ### Battery Manufacturing Online Short Course (**Fall 2024**)
 
-- Leading course content development from scratch to realize a 6-week intensive course in battery manufacturing process fundamentals; responsibilities include syllabus conceptualization, learner profile development, course content development, evaluation material development, video lecture recordings, online course implementation, and course delivery facilitation.
+- Leading course content development to realize a 6-week intensive course in battery manufacturing process fundamentals; responsibilities include syllabus conceptualization, learner profile interviews, course content development, evaluation material development, video lecture production, online course implementation, and course delivery facilitation.
 
 ### ME499/599: Battery Engineering and Lifetime Management (**Fall 2023**)
 
@@ -19,11 +19,11 @@ I am actively developing university-level coursework on the topics of battery en
 
 ### Battery Boot Camp (**Summer 2023**)
 
-- Prepared and delivered three hours of course content for a "train-the-trainers" workshop for local United Auto Workers leaders, community college instructors, and members from the local automotive industry; topics covered battery materials, mining, manufacturing, and recycling.
+- Prepared and delivered three hours of course content for a "train-the-trainers" workshop for local United Auto Workers (UAW) leaders, community college instructors, and members from the local automotive industry; topics covered battery materials, mining, manufacturing, and recycling.
 
 ## Graduate Student Instructor
 
-I served as graduate student instructor (GSI) for ME565: Battery Systems Modeling and Control, in Winter 2021. Beyond core responsibilities, I organized extra tutorials on Matlab/Simulink to help students with without a mechanical engineering background catch up on course prerequisites. I also volunteered to update course homework, lecture material, and quizzes, to improve accessibility of course materials for students without a background in controls engineering.
+I served as graduate student instructor (GSI) for ME565: Battery Systems Modeling and Control, in Winter 2021. Beyond my core responsibilities, I organized extra tutorials on Matlab/Simulink to help students with without a mechanical engineering background catch up on course prerequisites. I also volunteered to update course homework, lecture material, and quizzes, to improve accessibility of course materials for students without a background in controls engineering.
 
 ## Guest Lecturer
 
