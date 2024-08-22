@@ -32,14 +32,14 @@ author_profile: true
 ## Conference Talks and Poster Presentations
 
 ### Formation model for physics-based end-of-line diagnostics
-> *Cell Symposia: Technology barriers to electric vehicle implementation, Ann Arbor, MI, May 20 - May 22 **2024*** (oral presentation) \
+> *Cell Symposia: Technology barriers to electric vehicle implementation, Ann Arbor, MI, May 20 - May 22 **2024*** (poster presentation) \
 > Authors: **A. Weng**, G. Less, J.B. Siegel, A. Stefanopoulou \
-> **Top Poster Award**
+> **Top Poster Award**. [Download Poster](https://github.com/wengandrew/wengandrew.github.io/blob/master/files/poster-2024-05-22-cell-symposium.pdf)
 
 ### Towards rational design of battery formation protocols: from electrochemical modeling to factory deployment
 > *Electrochemical Society Spring Meeting, San Francisco, CA, May 26 - May 30, **2024*** (oral presentation) \
 > Authors: **A. Weng**, K. Kovalchuk, J.B. Siegel, A. Stefanopoulou
-    
+
 ### Phenomenological model of solid electrolyte interphase formation and growth leveraging real-time expansion measurements
 > *Electrochemical Society Spring Meeting, Boston, MA, May 28 - June 2, **2023*** (oral presentation) \
 > Authors: **A. Weng**, E. Olide, V. Tran, I. Kovalchuk, J.B. Siegel, A. Stefanopoulou
@@ -60,7 +60,7 @@ author_profile: true
 
 > *Congress of the Canadian Association of Physicists, Montreal, Canada, **2013*** (poster presentation) \
 > Authors: **A. Weng**, M. Karttunen \
-> **First Prize, Best Student Poster, Division of Theoretical Physics**
+> **First Prize, Best Student Poster, Division of Theoretical Physics**. [Download Poster](https://github.com/wengandrew/wengandrew.github.io/blob/master/files/poster-2013-gray-scott.pdf)
 
 ## Media
 
