@@ -26,7 +26,7 @@ Battery formation modeling and diagnostics: toward closed-loop battery manufactu
 
 ## Conference Talks and Poster Presentations
 
-### Formation Model for Physics-Based End-of-Line Diagnostics: Towards Closed-Loop Battery Manufacturing Process Control
+### Formation model for physics-based end-of-line diagnostics
 > *Cell Symposia: Technology barriers to electric vehicle implementation, Ann Arbor, MI, May 20 - May 22 **2024*** (oral presentation) \
 > Authors: **A. Weng**, G. Less, J.B. Siegel, A. Stefanopoulou \
 > **Top Poster Award**
@@ -43,7 +43,7 @@ Battery formation modeling and diagnostics: toward closed-loop battery manufactu
 > *Gordon Research Conference, Ventura, CA, **2022*** (poster presentation) \
 > Authors: **A. Weng**. P. Mohtat, P.M. Attia, V. Sulzer, S. Lee, G. Less, A. Stefanopoulou
 
-### Using Resistance as a Surrogate for Lithium Consumed During Formation for Cell Life Prediction
+### Using resistance as a surrogate for lithium consumed during formation for cell life prediction
 > *MRS Spring Meeting, Hawaii, HI **2022*** (oral presentation) \
 > Authors: **A. Weng**, P. Mohtat, P.M. Attia, V. Sulzer, S. Lee, G. Less, A. Stefanopoulou
 
@@ -51,7 +51,7 @@ Battery formation modeling and diagnostics: toward closed-loop battery manufactu
 > *Electrochemical Society Spring Meeting, May 30 -- June 3, **2021*** (oral presentation) \
 > Authors: **A. Weng**, P. Mohtat, S. Lee, G. Less, A. Stefanopoulou
 
-### Spatio-temporal pattern formation in the Gray-Scott Model
+### Spatio-temporal pattern formation in the Gray-Scott model
 
 > *Congress of the Canadian Association of Physicists, Montreal, Canada, **2013*** (poster presentation) \
 > Authors: **A. Weng**, M. Karttunen \
