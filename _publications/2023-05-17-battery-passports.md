@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2023-05-17-battery-passports
 excerpt: 'In this commentary, we raise awareness of the central role that the battery management system (BMS) plays in enabling battery passports to predict remaining useful life (RUL). With an accurate BMS, battery passports can help boost consumer confidence in the used electric vehicle market. With an accurate, physics-based BMS, repurposers can evaluate second-life application feasibility and fulfill the promise of a circular battery economy.'
 date: 2024-01-08
-venue: 'Joule'
+venue: 'Joule <i>(Commentary)</i>'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://wengandrew.github.io/files/weng2023_battery_passport_joule.pdf'
 authors: '<b>A. Weng</b>, Eric Dufek, Anna Stefanopoulou'
