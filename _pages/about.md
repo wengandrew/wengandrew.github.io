@@ -33,20 +33,8 @@ I would love to hear from you! Please write me an email if you'd like to start a
 Here is a brief summary of my educational background:
 
 - Ph.D. Mechanical Engineering, *University of Michigan at Ann Arbor*, 2024
-  - *Thesis*: "Lithium-Ion Battery Formation Modeling and Diagnostics"
-  - *Committee*: Anna Stefanopoulou, Jason B. Siegel, Niel Dasgupta, Judy Jin
-  - *Select Awards*: 
-    - Top Poster: "Cell Symposium - Technology Barriers to Electric Vehicle Implementation" (2024)
-    - S.M. and Benjamin Wu Fellowship in Manufacturing (2023)
-    - Benton, Dwight F. Fellowship (2020)
-    - Forrest Student Fellowship (2020)
-
+  > *Thesis*: "Lithium-Ion Battery Formation Modeling and Diagnostics"
 - M.S. Computer Science, *Georgia Institute of Technology*, 2020
-  - *Specializations*: Computing Systems and Artificial Intelligence
-
+  > *Specializations*: Computing Systems and Artificial Intelligence
 - B.A.Sc. Nanotechnology Engineering, *University of Waterloo, Canada*, 2013
-  - *Options*: Physics and Management Sciences 
-  - *Select Awards:* 
-    - Dean's List Graduate (2013)
-    - NSERC Alexander Graham Bell Graduate Scholarship (2013)
-    - Best Student Poster, Division of Theoretical Physics, Canadian Association of Physicists Congress (2013)
+  > *Options*: Physics and Management Sciences 
