@@ -9,20 +9,22 @@ author_profile: true
 
 ## Invited Talks
 
-Battery formation modeling and diagnostics: toward closed-loop battery manufacturing process control
-> *Battery Modeling Webinar Series, **Feb 2024***
+| Title  | Venue | Date
+|---|---|---|
+| Battery formation modeling and diagnostics: toward closed-loop battery manufacturing process control | Battery Modeling Webinar Series | Feb 2024
+| Battery passports: renewing the case for advanced BMS diagnostics | Battery Modeling Webinar Series | Aug 2023
 
 ### Battery passports: renewing the case for advanced BMS diagnostics
-> *Battery Modeling Webinar Series, **Aug 2023***
+*Battery Modeling Webinar Series, **Aug 2023***
 
 ### Predicting the impact of formation protocols on battery lifetime immediately after manufacturing
-> *Tsinghua University (Webinar), 9th Seminar in Series of Transportation Electrification, eTransportation, **Apr 2022***
+*Tsinghua University (Webinar), 9th Seminar in Series of Transportation Electrification, eTransportation, **Apr 2022***
 
 ### Predicting the impact of formation protocols on battery lifetime immediately after manufacturing
-> *Carnegie Mellon University, Battery Modeling Webinar Series, **Nov 2021***
+*Carnegie Mellon University, Battery Modeling Webinar Series, **Nov 2021***
 
 ### Speeding up battery formation
-> *The Battery Show, Novi, MI, **Sept 2021***
+*The Battery Show, Novi, MI, **Sept 2021***
 
 ## Conference Talks and Poster Presentations
 
