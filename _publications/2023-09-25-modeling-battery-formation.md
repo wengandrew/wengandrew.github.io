@@ -7,7 +7,7 @@ excerpt: 'This work bridges the gap between electrochemical descriptions of SEI 
 date: 2023-09-25
 venue: 'Journal of the Electrochemical Society'
 authors: '<b>A. Weng</b>, Everardo Olide, Iaroslav Kovalchuk, Jason B. Siegel, Anna Stefanopoulou'
-slidesurl: ''
+# slidesurl: 
 paperurl: 'https://iopscience.iop.org/article/10.1149/1945-7111/aceffe'
 citation: 'Andrew Weng et al 2023 J. Electrochem. Soc. 170 090523'
 ---
