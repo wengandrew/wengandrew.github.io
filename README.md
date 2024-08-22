@@ -4,7 +4,7 @@ August 21, 2024
 
 Thank goodness for templates! Thanks to the folks at academicpages.github.io for making it easy (and free) to set up a personal website.
 
-Here's a shortcut to my page at [wengandrew.github.io](wengandrew.github.io).
+Here's a shortcut to my page at [wengandrew.github.io](https://wengandrew.github.io).
 
 I'll write down some thoughts to hopefully help the next person who stumbles onto this page.
 So you're here on the GitHub page. What do you do? Here's what I did.
