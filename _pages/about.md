@@ -12,7 +12,7 @@ I am a Postdoctoral Fellow in the [Battery Control Group at the University of Mi
 My current research focuses on **energy systems modeling** with an emphasis on battery manufacturing process optimization and lifetime prediction. My mission is to **build a knowledge base enabling new battery manufacturing technologies to be deployed rapidly, at scale, and sustainably**. I am also passionate about battery workforce development and have led research efforts to quantify labor productivity shifts due to the EV transition.
 
 I hold joint appointments with the following organizations:
-- [_University of Michigan Electric Vehicle Center_](https://evc.engin.umich.edu/): Lead coursework developer and instructor for the EV Masters Program to be launched in Fall 2025
+- [_University of Michigan Electric Vehicle Center_](https://evc.engin.umich.edu/): Leading coursework development for a battery manufacturing course as part of the EV Masters Program to be launched in Fall 2025
 - [_University of South Carolina, Chemical Engineering_](https://sc.edu/study/colleges_schools/engineering_and_computing/news_events/news/2022/dougal_10_million_navy_research.php): Project engineer for developing battery digital twin technology in naval power and energy systems 
 - [_Volta Foundation_](https://volta.foundation/battery-report): Content lead for *The Annual Battery Report's* talent and workforce development section
 
