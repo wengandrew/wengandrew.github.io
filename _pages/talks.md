@@ -7,12 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-## Invited Talks
-
-| Title  | Venue | Date
+<!-- | Title  | Venue | Date
 |---|---|---|
 | Battery formation modeling and diagnostics: toward closed-loop battery manufacturing process control | Battery Modeling Webinar Series | Feb 2024
-| Battery passports: renewing the case for advanced BMS diagnostics | Battery Modeling Webinar Series | Aug 2023
+| Battery passports: renewing the case for advanced BMS diagnostics | Battery Modeling Webinar Series | Aug 2023 -->
+
+## Invited Talks
+
+### Battery formation modeling and diagnostics: toward closed-loop battery manufacturing process control
+*Battery Modeling Webinar Series, **Feb 2024***
 
 ### Battery passports: renewing the case for advanced BMS diagnostics
 *Battery Modeling Webinar Series, **Aug 2023***

@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-I am actively developing university-level coursework on the topic of battery engineering and battery manufacturing process fundamentals. I have also served as a Graduate Student Instructor (GSI), guest lecturer, and workshop developer at multiple venues over the past four years.
+I am actively developing university-level coursework on the topics of battery engineering and battery manufacturing process fundamentals. I have also served as a Graduate Student Instructor (GSI), guest lecturer, and workshop developer at multiple venues over the past four years.
 
 ### Battery Manufacturing Online Short Course (**Fall 2024**)
 
@@ -23,7 +23,7 @@ I am actively developing university-level coursework on the topic of battery eng
 
 ## Graduate Student Instructor
 
-I served as graduate student instructor (GSI) for ME565: Battery Systems and Control, in Winter 2021. Beyond core responsibilities, I organized extra tutorials on Matlab/Simulink to help students with without a mechanical engineering background catch up on course prerequisites. I also volunteered to update course homework, lecture material, and quizzes, to improve accessibility of course materials for students without a background in controls engineering.
+I served as graduate student instructor (GSI) for ME565: Battery Systems Modeling and Control, in Winter 2021. Beyond core responsibilities, I organized extra tutorials on Matlab/Simulink to help students with without a mechanical engineering background catch up on course prerequisites. I also volunteered to update course homework, lecture material, and quizzes, to improve accessibility of course materials for students without a background in controls engineering.
 
 ## Guest Lecturer
 
