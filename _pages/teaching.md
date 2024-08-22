@@ -49,7 +49,7 @@ Undergraduate Research Opportunities Program (UROP) students:
 3. Roger Ho (ME/CS), 2021
    - "Measuring battery cell properties at the extreme end of life"
 
-### @ Tesla
+### @ Tesla Internship Program
 
 1. Yash Matharu 
 2. Rachel Zhang (now at Tesla, Process Engineer)
