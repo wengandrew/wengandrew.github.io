@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Postdoctoral Fellow in the [Battery Control Group at the University of Michigan](https://batterycontrolgroup.engin.umich.edu/). Before that, I was a [Staff Cell Engineer at Tesla](https://www.linkedin.com/in/wengandrew/), where I focused on battery performance evaluation, degradation analysis, systems modeling, and in-house 4680 cell development (2013 to 2024). My training blends elements from mechanical engineering (dynamic systems modeling and control theory), computer science (computing systems and AI/ML), and materials science (characterization methods).
 
-My research focuses on **energy systems modeling** with an emphasis on battery manufacturing process optimization, battery lifetime prediction, and battery workforce development. My mission is to **build a knowledge base enabling new battery manufacturing technologies to be deployed rapidly, at scale, and with sustainability in mind**.
+My current research focuses on **energy systems modeling** with an emphasis on battery manufacturing process optimization, battery lifetime prediction, and battery workforce development. My mission is to **build a knowledge base enabling new battery manufacturing technologies to be deployed rapidly, at scale, and with sustainability in mind**.
 
 I also currently hold joint appointments with the following organizations:
 - [_University of Michigan Electric Vehicle Center_](https://evc.engin.umich.edu/): Lead Coursework Developer and Instructor for the EV Masters Program to be launched in Fall 2025
