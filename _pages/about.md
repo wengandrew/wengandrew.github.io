@@ -33,8 +33,8 @@ I would love to hear from you! Please write me an email if you'd like to start a
 Here is a brief summary of my educational background:
 
 - Ph.D. Mechanical Engineering, *University of Michigan at Ann Arbor*, 2024
-  > *Thesis*: "Lithium-Ion Battery Formation Modeling and Diagnostics"
+  - *Thesis*: "Lithium-ion battery formation modeling and diagnostics"
 - M.S. Computer Science, *Georgia Institute of Technology*, 2020
-  > *Specializations*: Computing Systems and Artificial Intelligence
+  - *Specializations*: Computing systems and artificial intelligence
 - B.A.Sc. Nanotechnology Engineering, *University of Waterloo, Canada*, 2013
-  > *Options*: Physics and Management Sciences 
+  - *Options*: Physics and management sciences 
