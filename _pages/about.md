@@ -25,7 +25,7 @@ I would love to chat with you about batteries, battery research, or life in indu
 ### Education
 
 - Ph.D. Mechanical Engineering, *University of Michigan at Ann Arbor*, 2024
-  - *Thesis*: "Lithium-ion battery formation modeling and diagnostics"
+  - *Thesis*: "[Lithium-ion battery formation modeling and diagnostics](https://wengandrew.github.io/files/dissertation.pdf)"
 - M.S. Computer Science, *Georgia Institute of Technology*, 2020
   - *Specializations*: Computing systems and artificial intelligence
 - B.A.Sc. Nanotechnology Engineering, *University of Waterloo, Canada*, 2013
