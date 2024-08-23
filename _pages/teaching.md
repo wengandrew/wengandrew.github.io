@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-# Coursework Development
+----
+## Coursework Development
 
 I am actively developing university-level coursework on the topics of battery engineering and battery manufacturing process fundamentals. I have also served as a Graduate Student Instructor (GSI), guest lecturer, and workshop developer at multiple venues over the past four years.
 
@@ -17,24 +18,26 @@ I am actively developing university-level coursework on the topics of battery en
 ### ME499/599: Battery Engineering and Lifetime Management (**Fall 2023**)
 - Assisted in course content development for a new introductory course on lithium-ion battery physics, lifetime management, and sustainability; the course was launched in Fall 2023 with 47 students enrolled.
 
-# Instructor Experience
+----
+## Instructor Experience
 
-## Battery Boot Camp (**Summer 2023**)
+### Battery Boot Camp (**Summer 2023**)
 I prepared and delivered three hours of course content for a "train-the-trainers" workshop for local United Auto Workers (UAW) leaders, community college instructors, and members from the local automotive industry. Topics covered battery materials, mining, manufacturing, and recycling.
 
-## Graduate Student Instructor
+### Graduate Student Instructor
 I served as graduate student instructor (GSI) for ME565: Battery Systems and Control in Winter 2021. Beyond my core responsibilities, I organized extra tutorials on Matlab/Simulink to help students with without a mechanical engineering background catch up on course prerequisites. I also volunteered to update course homework, lecture material, and quizzes, to improve accessibility of course materials for students without a background in controls engineering.
 
-## Guest Lecturer
+### Guest Lecturer
 I have given multiple guest lectures on the topic of battery materials, metals, mining, manufacturing, and sustainability.
 - ME481/599: Manufacturing Processes (Fall 2023)
 - ME499/599: Battery Engineering and Lifetime Management (Fall 2023)
 - ME565: Battery Systems and Control (Winter 2022)
 
-## Workshop Developer and Speaker
+### Workshop Developer and Speaker
 At the American Control Conference (Summer 2022), I developed and presented workshop tutorials on battery manufacturing, battery degradation mechanisms, and physics-based models for battery lifetime, to an audience of controls engineers.
 
-# Student Mentorship
+----
+## Student Mentorship
 
 ### @ University of Michigan
 
