@@ -9,6 +9,7 @@ venue: 'Joule <i>(Commentary)</i>'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://wengandrew.github.io/files/weng2023_battery_passport_joule.pdf'
 authors: '<b>A. Weng</b>, Eric Dufek, Anna Stefanopoulou'
+image: 'https://wengandrew.github.io/images/bio-photo.jpg'
 citation: 'Weng, A., Dufek, E., and Stefanopoulou, A. (May 17, 2023). "Battery passports for promoting electric vehicle resale and repurposing." Joule 7(5):837-842. https://doi.org/10.1016/j.joule.2023.04.002'
 ---
 
