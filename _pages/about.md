@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Postdoctoral Fellow in the [Battery Control Group at the University of Michigan](https://batterycontrolgroup.engin.umich.edu/). Before that, I was a [Staff Cell Engineer at Tesla](https://www.linkedin.com/in/wengandrew/), where I led projects on battery performance evaluation, systems modeling, and in-house 4680 cell development (2013 to 2024). My training blends elements from dynamic systems modeling, control theory, electrochemical engineering, software engineering, and materials characterization.
 
-My current research focuses on **energy systems modeling** with an emphasis on battery manufacturing process optimization and lifetime prediction. My mission is to **build a knowledge base enabling new battery manufacturing technologies to be deployed rapidly, at scale, and sustainably**. I am also passionate about battery workforce development and have led research efforts to quantify labor productivity shifts due to the EV transition.
+My current research focuses on **energy storage systems modeling** with an emphasis on battery manufacturing process optimization and lifetime prediction. My mission is to **build a knowledge base enabling new battery manufacturing technologies to be deployed rapidly, at scale, and sustainably**. I am also passionate about battery workforce development and have led research efforts to quantify labor productivity shifts due to the EV transition.
 
 I am actively involved in ongoing projects with the following organizations:
 - [_University of Michigan Electric Vehicle Center_](https://evc.engin.umich.edu/): Leading coursework development for a battery manufacturing course as part of the EV Masters Program to be launched in Fall 2025
@@ -25,7 +25,7 @@ I would love to chat with you about batteries, battery research, or life in indu
 ### Education
 
 - Ph.D. Mechanical Engineering, *University of Michigan at Ann Arbor*, 2024
-  - *Thesis*: "[Lithium-ion battery formation modeling and diagnostics](https://wengandrew.github.io/files/dissertation.pdf)"
+  - *Thesis*: "[Lithium-ion battery formation modeling and diagnostics](https://wengandrew.github.io/files/dissertation-compressed.pdf)"
 - M.S. Computer Science, *Georgia Institute of Technology*, 2020
   - *Specializations*: Computing systems and artificial intelligence
 - B.A.Sc. Nanotechnology Engineering, *University of Waterloo, Canada*, 2013
