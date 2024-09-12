@@ -13,7 +13,7 @@ author_profile: true
 I am actively developing university-level coursework on the topics of battery engineering and battery manufacturing process fundamentals. I have also served as a Graduate Student Instructor (GSI), guest lecturer, and workshop developer at multiple venues over the past four years.
 
 ### Battery Manufacturing Process Fundamentals (**Fall 2024**)
-- Leading course content development to realize an online course in battery manufacturing process fundamentals; responsibilities include syllabus conceptualization, learner profile interviews, course content development, evaluation material development, video lecture production, online course implementation, and course delivery facilitation.
+- Leading course content development to realize an online course in battery manufacturing process fundamentals; responsibilities include syllabus conceptualization, learner profile interviews, course content development, evaluation material development, video lecture production, online course implementation, and course delivery.
 
 ### ME499/599: Battery Engineering and Lifetime Management (**Fall 2023**)
 - Assisted in course content development for a new introductory course on lithium-ion battery physics, lifetime management, and sustainability; the course was launched in Fall 2023 with 47 students enrolled.
