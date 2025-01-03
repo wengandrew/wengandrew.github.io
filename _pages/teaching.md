@@ -52,11 +52,11 @@ Undergraduate Research Opportunities Program (UROP) students:
 
 ### @ Tesla Internship Program
 
-1. Yash Matharu
+1. Yash Matharu (undergrad at McMaster)
 2. Rachel Zhang (now at Tesla, Process Engineer)
-3. Derek Deng (now at Berkeley, PhD Candidate)
-4. Cameron Dean (now at Waterloo, PhD Candidate, Nazar Group)
+3. Derek Deng (now at Berkeley, PhD Candidate, [Ceder Group](https://ceder.berkeley.edu/people/))
+4. Cameron Dean (now at Waterloo, PhD Candidate, [Nazar Group](https://uwaterloo.ca/nazar-group/profiles))
 5. Rachel Tao (now at Microsoft, Software Engineer)
 6. Jack McGrory (now at General Motors, Sr. Software Engineer)
-7. Daniel McHaffie (now at Caltech, PhD Candidate, See Group)
-8. Storm Gourley (now at McMaster, PhD Candidate)
+7. Daniel McHaffie (now at Caltech, PhD Candidate, [See Group](https://www.seegroup.caltech.edu/members))
+8. Storm Gourley (now at McMaster, [Higgins Lab](https://www.higginslab.com/team))
