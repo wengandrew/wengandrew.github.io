@@ -14,7 +14,7 @@ author_profile: true
 
 ## Invited Talks
 
-### (Host) Unsolved problems in BMS state and parameter estimation
+### (Hosted) Unsolved problems in BMS state and parameter estimation
 *Battery Modeling Webinar Special Topics Series, **Sep to Nov 2024***
 - Organized special topics series highlighting frontier research in BMS algorithms
 - Webinar received 650+ attendees and featured speakers from Germany (RWTH Aachen), Spain (Mondragon), U.K. (Oxford), and U.S.A. (Berkeley, Stanford).
