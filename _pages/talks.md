@@ -14,6 +14,10 @@ author_profile: true
 
 ## Invited Talks
 
+### (Host) Unsolved problems in BMS state and parameter estimation
+*Battery Modeling Webinar Special Topics Series, **Sep to Nov 2024***
+Organized six webinars highlighting early-career researchers; webinar received 650+ attendees and speakers from Germany, Spain, U.K., and U.S.A.
+
 ### Battery formation modeling and diagnostics: toward closed-loop battery manufacturing process control
 *Battery Modeling Webinar Series, **Feb 2024***
 
@@ -64,6 +68,10 @@ author_profile: true
 
 ## Media
 
+- [*Electric Vehicles Create More Jobs than Fossil Fuel Vehicles*](https://cleantechnica.com/2024/12/16/electric-vehicles-create-more-jobs-than-fossil-fuel-vehicles-research/), CleanTechnica, Dec 16, 2024
+- [*Will EVs mean fewer auto jobs?*](https://www.detroitnews.com/story/business/autos/2024/10/15/will-evs-mean-fewer-auto-jobs/75283308007), The Detroit News, Oct 15, 2024
+- [*Data reveals electric vehicles reate more jobs than internal combustion engines*](https://www.evdesignandmanufacturing.com/news/university-michigan-study-shows-automotive-assembly-jobs-increase-10x-ev-production/), EV Design and Manufacturing, Sept 20, 2024
+- [*EV production significantly boosts auto jobs, defying predictions*](https://www.innovationnewsnetwork.com/ev-production-significantly-boosts-auto-jobs-defying-predictions/51240/?utm_source=rss&utm_medium=rss&utm_campaign=ev-production-significantly-boosts-auto-jobs-defying-predictions), Innovation News Network, Sept 18, 2024
 - [*Predicting how changes in production, materials impact EV battery life*](https://techxplore.com/news/2021-10-production-materials-impact-ev-battery.html), TechXplore, Oct 25, 2021
 - [*Quick, inexpensive technique to predict battery life*](https://www.azom.com/news.aspx?newsID=57059), AZO Materials, Oct 26, 2021
 - [*Resistance is not futile: predicting how changes in production, materials impact EV battery life*](https://news.umich.edu/resistance-is-not-futile-predicting-how-changes-in-production-materials-impact-ev-battery-life/), Michigan News, Oct 25, 2021
