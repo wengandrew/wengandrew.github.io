@@ -13,7 +13,7 @@ author_profile: true
 I am actively developing university-level coursework on the topics of battery engineering and battery manufacturing process fundamentals. I have also served as a Graduate Student Instructor (GSI), guest lecturer, and workshop developer at multiple venues over the past four years.
 
 ### Battery Manufacturing Process Fundamentals (**Fall 2024**)
-- Leading course content development to realize an online course in battery manufacturing process fundamentals; responsibilities include syllabus conceptualization, learner profile interviews, course content development, evaluation material development, video lecture production, online course implementation, and course delivery.
+- Leading course content development to realize an online course in [battery manufacturing process fundamentals](https://nexus.engin.umich.edu/pro-ed/battery-cell-mfg/). Responsibilities include syllabus conceptualization, learner profile interviews, course content development, evaluation material development, video lecture production, online course implementation, and course delivery. The first session begins Jan 13, 2025, with 50 enrolles from a major automotive company. 
 
 ### ME499/599: Battery Engineering and Lifetime Management (**Fall 2023**)
 - Assisted in course content development for a new introductory course on lithium-ion battery physics, lifetime management, and sustainability; the course was launched in Fall 2023 with 47 students enrolled.
@@ -28,7 +28,8 @@ I prepared and delivered three hours of course content for a "train-the-trainers
 I served as graduate student instructor (GSI) for ME565: Battery Systems and Control in Winter 2021. Beyond my core responsibilities, I organized extra tutorials on Matlab/Simulink to help students with without a mechanical engineering background catch up on course prerequisites. I also volunteered to update course homework, lecture material, and quizzes, to improve accessibility of course materials for students without a background in controls engineering.
 
 ### Guest Lecturer
-I have given multiple guest lectures on the topic of battery materials, metals, mining, manufacturing, and sustainability.
+I have served as a guest lecturer for topics covering battery materials, metals, mining, manufacturing, and sustainability.
+- ME599: Principles, Materials, Manufacturing, and Devices of Batteries (Fall 2024)
 - ME481/599: Manufacturing Processes (Fall 2023)
 - ME499/599: Battery Engineering and Lifetime Management (Fall 2023)
 - ME565: Battery Systems and Control (Winter 2022)
