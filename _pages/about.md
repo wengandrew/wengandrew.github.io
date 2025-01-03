@@ -12,9 +12,9 @@ I am a Postdoctoral Fellow in the [Battery Control Group at the University of Mi
 My current research focuses on **energy storage systems modeling** with an emphasis on battery manufacturing process optimization and lifetime prediction. My mission is to **build a knowledge base enabling new battery manufacturing technologies to be deployed rapidly, at scale, and sustainably**. I am also passionate about battery workforce development and have led research efforts to quantify labor productivity shifts due to the EV transition.
 
 I am actively involved a few projects at the moment:
-- [_University of Michigan Electric Vehicle Center_](https://evc.engin.umich.edu/): Leading coursework development and delivery for a new online professional course in [ Battery Cell Manufacturing, Testing and Design ](https://nexus.engin.umich.edu/pro-ed/battery-cell-mfg/); researching concepts in advanced battery manufacturing diagnostics
-- [_University of South Carolina, Chemical Engineering_](https://sc.edu/study/colleges_schools/engineering_and_computing/news_events/news/2022/dougal_10_million_navy_research.php): Researching battery digital twin technologies for power and energy system applications
-- [_Volta Foundation_](https://volta.foundation/battery-report): Program Director for the [2024 Battery Talent Census](https://ci6zshhkupb.typeform.com/batterycensus), aiming to be the largest, most comprehensive data collection initiative focused on workforce trends, compensation, and talent gaps within the battery ecosystem
+- [_University of Michigan Electric Vehicle Center_](https://evc.engin.umich.edu/): Leading coursework development and delivery for a new online professional course in [Battery Cell Manufacturing, Testing and Design](https://nexus.engin.umich.edu/pro-ed/battery-cell-mfg/); advancing research in battery manufacturing diagnostics and control.
+- [_University of South Carolina, Chemical Engineering_](https://sc.edu/study/colleges_schools/engineering_and_computing/news_events/news/2022/dougal_10_million_navy_research.php): Advancing research in battery digital twin technologies for power and energy system applications.
+- [_Volta Foundation_](https://volta.foundation/battery-report): Serving as Program Director for the [2024 Battery Talent Census](https://ci6zshhkupb.typeform.com/batterycensus): the largest, most comprehensive data collection initiative focused on workforce trends, compensation, and talent gaps within the battery ecosystem.
 
 ## Getting in Touch
 
