@@ -16,7 +16,8 @@ author_profile: true
 
 ### (Host) Unsolved problems in BMS state and parameter estimation
 *Battery Modeling Webinar Special Topics Series, **Sep to Nov 2024***
-Organized six webinars highlighting early-career researchers; webinar received 650+ attendees and speakers from Germany, Spain, U.K., and U.S.A.
+- Organized special topics series highlighting frontier research in BMS algorithms
+- Webinar received 650+ attendees and featured speakers from Germany (RWTH Aachen), Spain (Mondragon), U.K. (Oxford), and U.S.A. (Berkeley, Stanford).
 
 ### Battery formation modeling and diagnostics: toward closed-loop battery manufacturing process control
 *Battery Modeling Webinar Series, **Feb 2024***
