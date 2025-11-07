@@ -9,14 +9,13 @@ author_profile: true
 
 ----
 ## Coursework Development
-
 I develop university-level coursework on battery engineering and battery manufacturing process fundamentals. I have served as a course instructor, guest lecturer, and workshop developer at multiple venues over the past four years.
 
 ### Battery Manufacturing Process Fundamentals
-- I built from scratch the first professional education course in [battery cell manufacturing process fundamentals](https://www.linkedin.com/feed/update/urn:li:activity:7317534923899236352/) in the U.S. The first cohort included 50 engineers from a major automotive OEM, who gave the course a 95%+ satisfaction rating.
+I built from scratch the first professional education course in [battery cell manufacturing process fundamentals](https://www.linkedin.com/feed/update/urn:li:activity:7317534923899236352/) in the U.S. The first cohort included 50 engineers from a major automotive OEM, who gave the course a 95%+ satisfaction rating.
 
 ### ME499/599: Battery Engineering and Lifetime Management (**Fall 2023**)
-- Assisted in course content development for a new introductory course on lithium-ion battery physics, lifetime management, and sustainability; the course was launched in Fall 2023 with 47 students enrolled.
+I helped develop course content for a new introductory course on lithium-ion battery physics, lifetime management, and sustainability; the course was launched in Fall 2023 with 47 students enrolled.
 
 ----
 ## Instructor Experience
