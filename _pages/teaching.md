@@ -10,10 +10,10 @@ author_profile: true
 ----
 ## Coursework Development
 
-I am actively developing university-level coursework on the topics of battery engineering and battery manufacturing process fundamentals. I have also served as a Graduate Student Instructor (GSI), guest lecturer, and workshop developer at multiple venues over the past four years.
+I develop university-level coursework on battery engineering and battery manufacturing process fundamentals. I have served as a course instructor, guest lecturer, and workshop developer at multiple venues over the past four years.
 
-### Battery Manufacturing Process Fundamentals (**Fall 2024**)
-- Leading course content development to realize an online course in [battery manufacturing process fundamentals](https://nexus.engin.umich.edu/pro-ed/battery-cell-mfg/). Responsibilities include syllabus conceptualization, learner profile interviews, course content development, evaluation material development, video lecture production, online course implementation, and course delivery. The first session begins Jan 13, 2025, with 50 enrolles from a major automotive company. 
+### Battery Manufacturing Process Fundamentals
+- I built from scratch the first professional education course in [battery cell manufacturing process fundamentals]([https://nexus.engin.umich.edu/pro-ed/battery-cell-mfg/](https://www.linkedin.com/feed/update/urn:li:activity:7317534923899236352/) in the U.S. The first cohort included 50 engineers from a major automotive OEM, who gave the course a 95%+ satisfaction rating.
 
 ### ME499/599: Battery Engineering and Lifetime Management (**Fall 2023**)
 - Assisted in course content development for a new introductory course on lithium-ion battery physics, lifetime management, and sustainability; the course was launched in Fall 2023 with 47 students enrolled.
@@ -22,7 +22,7 @@ I am actively developing university-level coursework on the topics of battery en
 ## Instructor Experience
 
 ### Battery Boot Camp (**Summer 2023**)
-I prepared and delivered three hours of course content for a "train-the-trainers" workshop for local United Auto Workers (UAW) leaders, community college instructors, and members from the local automotive industry. Topics covered battery materials, mining, manufacturing, and recycling.
+I prepared and delivered course content for a "train-the-trainers" workshop for local United Auto Workers (UAW) leaders, community college instructors, and members from the local automotive industry. Topics covered battery materials, mining, manufacturing, and recycling.
 
 ### Graduate Student Instructor
 I served as graduate student instructor (GSI) for ME565: Battery Systems and Control in Winter 2021. Beyond my core responsibilities, I organized extra tutorials on Matlab/Simulink to help students with without a mechanical engineering background catch up on course prerequisites. I also volunteered to update course homework, lecture material, and quizzes, to improve accessibility of course materials for students without a background in controls engineering.
