@@ -8,7 +8,7 @@ date: 2023-09-25
 venue: 'Journal of the Electrochemical Society'
 authors: '<b>A. Weng</b>, Everardo Olide, Iaroslav Kovalchuk, Jason B. Siegel, Anna Stefanopoulou'
 # slidesurl:
-image: 'https://wengandrew.github.io/images/figure_formation_model.png'
+image: 'https://wengandrew.github.io/images/figure_formation_model_2.png'
 paperurl: 'https://iopscience.iop.org/article/10.1149/1945-7111/aceffe'
 citation: 'Andrew Weng et al 2023 J. Electrochem. Soc. 170 090523'
 ---
